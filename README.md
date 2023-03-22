@@ -14,6 +14,38 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/C-282C34?logo=C&logoColor=007ACC" alt="C logo" title="C" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/C++-282C34?logo=Cplusplus&logoColor=00599C" alt="C++ logo" title="C++" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python logo" title="Python" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/C Sharp-282C34?logo=csharp&logoColor=239120" alt="C# logo" title="C#" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Arm-282C34?logo=arm&logoColor=0091BD" alt="Arm logo" title="Arm" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Arduino-282C34?logo=arduino&logoColor=00979D" alt="Arduino logo" title="Arduino" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/STM32-282C34?logo=stmicroelectronics&logoColor=03234B" alt="STM32 logo" title="STM32" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Kicad-282C34?logo=kicad&logoColor=314CB0" alt="Kicad logo" title="Kicad" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/RaspberryPi-282C34?logo=raspberrypi&logoColor=A22846" alt="RaspberryPi logo" title="RaspberryPi" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Canva-282C34?logo=canva&logoColor=00C4CC" alt="Canva logo" title="Canva" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Adobe Premiere Pro-282C34?logo=adobepremierepro&logoColor=9999FF" alt="Adobe Premiere Pro logo" title="Adobe Premiere Pro" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Github-282C34?logo=github&logoColor=181717" alt="Github logo" title="Github" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Siemens-282C34?logo=siemens&logoColor=009999" alt="Siemens logo" title="Siemens" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Autocad-282C34?logo=autodesk&logoColor=000000" alt="Autocad logo" title="Autocad" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Ubuntu-282C34?logo=ubuntu&logoColor=E95420" alt="Ubuntu logo" title="Ubuntu" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Linux-282C34?logo=linux&logoColor=FCC624" alt="Linux logo" title="Linux" height="25" /></span>
+&nbsp;
 
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
