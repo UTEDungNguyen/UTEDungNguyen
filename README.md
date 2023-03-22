@@ -39,7 +39,7 @@
   <a href="https://www.youtube.com/@dungnguyen_ute" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="UTEDungNguyen-youtube" />
   </a>
-  <a href="https://www.linkedin.com/in/ UTEDungNguyen" target="blank">
+  <a href="https://www.linkedin.com/in/utedungnguyen/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="UTEDungNguyen-linkedin" />
   </a>
   <a href="https://www.instagram.com/ngdung_1809/" target="blank">
