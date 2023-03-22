@@ -14,6 +14,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Visual Studio-282C34?logo=visualstudio&logoColor=5C2D91" alt="Visual Studio logo" title="Visual Studio" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/C-282C34?logo=C&logoColor=007ACC" alt="C logo" title="C" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/C++-282C34?logo=Cplusplus&logoColor=00599C" alt="C++ logo" title="C++" height="25" /></span>
